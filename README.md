@@ -34,8 +34,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Yeni Bernal
- * **Topic(s)**:
- * **Materials**:
+ * **Topic(s)**: Understanding genetic structure of human populations
+ * **Materials**: [Novembre et al 2014. Genes mirror within Europe](http://www.nature.com/nature/journal/v456/n7218/abs/nature07331.html)
 
 ---
 
