@@ -53,7 +53,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Hwasoon Kim
  * **Topic(s)**: Incorporating LD information in Genomic Prediction with Sequence Data
- * **Materials**: [Carlsen et al. (2016)] (http://www.genetics.org/content/202/2/411)
+ * **Materials**: [Carlsen et al., Genetics, 2016] (http://www.genetics.org/content/202/2/411)
 
 ---
 
