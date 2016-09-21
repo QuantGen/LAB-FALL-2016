@@ -43,8 +43,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Agustin Gonzalez Reymundez
- * **Topic(s)**: Epigenetics Marks and Aging
- * **Materials**: [Lin & Wagner (2015). Epigenetic Aging Signatures Are Coherently Modified in Cancer](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004996)
+ * **Topic(s)**: Introduction to Epigenetics
+ * **Materials**: [Introduction to epigenetics, Ballestar] (http://download.springer.com/static/pdf/261/chp%253A10.1007%252F978-1-4419-8216-2_1.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-1-4419-8216-2_1&token2=exp=1474476448~acl=%2Fstatic%2Fpdf%2F261%2Fchp%25253A10.1007%25252F978-1-4419-8216-2_1.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-1-4419-8216-2_1*~hmac=2b80d2e25c5c3f5458c230cecd33f94f80e78544d66a8ae4d93aa2d035dbb62c)
 
 ---
 
