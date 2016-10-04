@@ -87,9 +87,9 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Nov 4, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**: Marco Lopez-Cruz
+ * **Presenter(s)**: Sudha
  * **Topic(s)**: 
- * **Materials**: Sudha
+ * **Materials**: 
 
 ---
 
