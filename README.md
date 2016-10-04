@@ -78,9 +78,9 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Date**: Friday, Oct 28, 2016
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
- * **Presenter(s)**: Sudha
+ * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**:
- * **Materials**:
+ * **Materials**: Paper: [Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411)
 
 ---
 
@@ -89,7 +89,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Marco Lopez-Cruz
  * **Topic(s)**: Incorporating LD information in Genomic Prediction with Sequence Data
- * **Materials**: Paper: [Carlsen et al., Genetics, 2016](http://www.genetics.org/content/202/2/411)
+ * **Materials**: Sudha
 
 ---
 
