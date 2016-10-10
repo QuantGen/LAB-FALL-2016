@@ -88,8 +88,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Sudha
- * **Topic(s)**: 
- * **Materials**: 
+ * **Topic(s)**:  The E-MS Algorithm: Model Selection With Incomplete Data 
+ * **Materials**: [Jiang et al., JASA, 2015](http://www.tandfonline.com/doi/full/10.1080/01621459.2014.948545)
 
 ---
 
