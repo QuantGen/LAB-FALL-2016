@@ -89,8 +89,9 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Deniz Akdemir 
- * **Topic(s)**: 
- * **Materials**:
+ * **Title**: A subjective tour of topics in statistical genetics
+ * **Abstract**: In this presentation, I will be sharing my perspective on a number of problems in statistical genetics and more specifically on genome-wide prediction, association and genomic selection. I will introduce these approaches and talk about some factors affecting their success. I will stress the importance of designing populations for genetic experiments; explain the idea of local epistasis and how it is relevant to association and prediction; and describe an approach to combine genetic data from multiple experiments. Instead of going into the mathematical details I will focus on the ideas, and refer to some statistical software packages I have developed.
+
 ---
 
  * **Date**: Friday, Nov 11, 2016
