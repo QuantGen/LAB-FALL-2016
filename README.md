@@ -96,7 +96,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Sudha
- * **Topic(s)**:
+ * **Topic(s)**: Defense Practice
  * **Materials**:
 
 ---
