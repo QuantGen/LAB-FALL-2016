@@ -123,8 +123,8 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Time**: 1:00-2:00pm
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Scott Funkhouser
- * **Topic(s)**:
- * **Materials**:
+ * **Topic(s)**: Genetic Architectures of Quantitative Variation in RNA Editing Pathways
+ * **Materials**: [Tongjun et al.](http://www.genetics.org/content/202/2/787)
 
 
 # Suggested Papers (feel free to add more!)
