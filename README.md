@@ -127,15 +127,15 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Materials**: [Tongjun et al.](http://www.genetics.org/content/202/2/787)
 
 
-# Suggested Papers (feel free to add more!)
+## Suggested Papers (feel free to add more!)
 
-## Perspectives/Reviews
+### Perspectives/Reviews
 
  * Protein Variation in Natural Populations and Quantitative Genetic Variation ([Hubby et al., Genetics, 2016](http://www.genetics.org/content/203/4/1497))
  * The History of the Y-Chromosome in man ([Hughes & Page, Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n6/pdf/ng.3580.pdf))
  * What do you mean "Epigenetic"? ([Deans & Maggert, Genetics, 2015](http://www.genetics.org/content/199/4/887))
 
-## Methods
+### Methods
 
  * Exact Post-Selection Inference for Sequential Regression Procedures ([Tibshirani et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1108848))
  * Fast, Exact Bootstrap Principal Component Analysis for p > 1 Million ([Fisher et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1062383))
@@ -144,7 +144,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * Tensor decomposition for multiple-tissue gene expression experiments [Hore et al., Nat. Gen., 2016](http://www.nature.com/ng/journal/v48/n9/full/ng.3624.html))
  * Structured Matrix Completion with Applications to Genomic Data Integration ([Cai et al., JASA, 2016](http://www.tandfonline.com/doi/full/10.1080/01621459.2015.1021005))
 
-## Research and Case Study Articles
+### Research and Case Study Articles
 
   * Genetic Variation of Gene Editing ([Tongjun et al., Genetics, 2016](http://www.genetics.org/content/202/2/787))
   * Cis- and Trans-Gene Inactivation Caused by Heterochromatin in Drosophila ([Yuriy et al., Genetics, 2016](http://www.genetics.org/content/202/1/93))
