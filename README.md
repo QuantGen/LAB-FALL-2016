@@ -115,7 +115,7 @@ This semester we will be covering  papers from outside the group, a few presenta
  * **Room**: 909 Fee Rd, 6th floor, Central Conference Room
  * **Presenter(s)**: Hwasoon Kim
  * **Topic(s)**: Contribution of genetic and common shared environoment to common disease using the UK-Biobank
- * **Materials**: [Muñoz et al., Nat. Gen., 2016] (http://za2uf4ps7f.scholar.serialssolutions.com/?sid=google&auinit=M&aulast=Mu%C3%B1oz&atitle=Evaluating+the+contribution+of+genetics+and+familial+shared+environment+to+common+disease+using+the+UK+Biobank&id=doi:10.1038/ng.3618)
+ * **Materials**: [Muñoz et al., Nat. Gen., 2016] (http://www.nature.com/ng/journal/v48/n9/full/ng.3618.html)
 
 ---
 
